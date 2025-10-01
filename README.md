@@ -54,7 +54,7 @@ O objetivo é demonstrar conceitos de **Orientação a Objetos, Relacionamento e
 * **fornecedores** → lista de fornecedores.
 * **produtos** → catálogo de produtos, ligados a fornecedores.
 * **cestas** → carrinho de compras do usuário.
-* **itens_cesta** → produtos vinculados a uma cesta (tabela associativa N:N).
+* **itens_cesta** → produtos vinculados a uma cesta.
 
 ![Image](https://github.com/user-attachments/assets/0e0bdb0a-652a-4b5f-aa2f-88ca977e03ef)
 
