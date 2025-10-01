@@ -16,8 +16,8 @@ O objetivo é demonstrar conceitos de **Orientação a Objetos, Relacionamento e
 
 2. **Gestão de Produtos**
 
-   * Cadastro de produtos (nome e preço).
-   * Associação de cada produto a um fornecedor.
+   * Cadastro de produtos (com nome e preço).
+   * Associação dos produtos com seu fornecedor.
    * Listagem dos produtos em tabela dinâmica com AJAX.
    * **Remoção de produtos** cadastrados.
 
@@ -28,7 +28,7 @@ O objetivo é demonstrar conceitos de **Orientação a Objetos, Relacionamento e
 
 4. **Cesta (Carrinho de Compras)**
 
-   * Usuário pode selecionar produtos via **checkbox**.
+   * O usuário pode selecionar produtos via **checkbox**.
    * Adicionar os produtos à cesta (1 unidade por produto).
    * Visualizar a cesta, com:
 
@@ -93,7 +93,7 @@ mini_gestao/
 │── api.php            # API (AJAX) para CRUD
 │── db.php             # Conexão com banco de dados
 │── assets/
-│    ├── app.js        # Lógica JS e AJAX
+│    ├── app.js        # Lógica JavaScript e AJAX
 │── SQL.txt            # Script do banco de dados
 
 ```
