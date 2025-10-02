@@ -13,6 +13,7 @@ O objetivo é demonstrar conceitos de **Orientação a Objetos, Relacionamento e
 
    * Registro de novos usuários com **armazenamento seguro de senha (hash SHA-256 com salt)**.
    * Login e autenticação de sessão.
+   * verificação de credenciais.
 
 2. **Gestão de Produtos**
 
